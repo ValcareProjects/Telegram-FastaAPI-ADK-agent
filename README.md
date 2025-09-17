@@ -19,7 +19,7 @@ A Telegram-based intelligent assistant bot powered by Google AI that helps users
 
 ## 🎯 Overview
 
-Ticket_BOook is an intelligent Telegram bot that leverages Google's Gemini AI to provide comprehensive travel and booking assistance. The bot features a multi-agent architecture that can handle complex tasks through specialized sub-agents for tour planning, purchase assistance, and email content generation.
+Ticket_BOook is an intelligent Telegram bot that leverages Google's Gemini AI to provide comprehensive assistance. The bot features a multi-agent architecture that can handle complex tasks through specialized sub-agents for tour planning, purchase assistance, and email content generation.
 
 ### Core Capabilities
 
